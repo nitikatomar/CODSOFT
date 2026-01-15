@@ -13,6 +13,7 @@ Delete all tasks at once
 User-friendly GUI using Tkinter
 
 Data handling using SQLite (if applicable)
+
 🛠️ Technologies Used
 
 Python
@@ -29,6 +30,7 @@ Clone this repository
 
 Run the file:
 python "TO DO list app.py"
+
 📌 Project Type
 
 CodSoft Internship – Python Project
