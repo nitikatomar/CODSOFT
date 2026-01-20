@@ -1,40 +1,43 @@
-📝 To-Do List Application (Python)
+# CODSOFT Internship – Python Projects
 
-A simple To-Do List application built using Python and Tkinter.
-This project allows users to add, delete, and manage daily tasks easily through a graphical user interface.
-🚀 Features
+This repository contains the projects completed as part of the *CodSoft Python Internship*.
 
-Add new tasks
+---
 
-Delete selected tasks
+## 🔹 Task 1: To-Do List Application (Python)
 
-Delete all tasks at once
+A simple To-Do List application built using *Python and Tkinter*.  
+It allows users to manage daily tasks through a graphical user interface.
 
-User-friendly GUI using Tkinter
+### Features:
+- Add new tasks
+- Delete selected tasks
+- Clear all tasks at once
 
-Data handling using SQLite (if applicable)
+📁 File: TO DO list app.py
 
-🛠️ Technologies Used
+---
 
-Python
+## 🔹 Task 2: Calculator Application (Python)
 
-Tkinter
+A basic calculator application developed using *Python*.  
+It performs standard arithmetic operations.
 
-SQLite
+### Features:
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-▶️ How to Run the Project
+📁 File: Calculator.py
 
-Make sure Python is installed on your system
+---
 
-Clone this repository
+### 🛠 Tech Stack
+- Python
+- Tkinter
 
-Run the file:
-python "TO DO list app.py"
+---
 
-📌 Project Type
-
-CodSoft Internship – Python Project
-
-👩‍💻 Author
-
-Nitika Tomar
+### 📌 Internship
+*CodSoft Python Internship*
