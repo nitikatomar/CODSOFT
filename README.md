@@ -41,3 +41,13 @@ It performs standard arithmetic operations.
 
 ### 📌 Internship
 *CodSoft Python Internship*
+🔐 Task 3: Password Generator (Python)
+A Python program that generates strong and random passwords based on user input length.
+Features:
+User specifies password length
+Includes uppercase, lowercase, digits, and special characters
+Shuffles characters for better randomness
+Handles invalid input
+File: Password Generator.py
+
+
