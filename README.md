@@ -55,5 +55,21 @@ It performs standard arithmetic operations.
 - Uses `random` and `string` modules  
 - Beginner-friendly mini project
 
+  
+---
+
+## 🔹 Task 4: Rock Paper Scissors Game 🎮
+
+A simple **Rock Paper Scissors** game developed using *Python*.  
+The game is played between the **user and the computer** in the command line.
+
+### Features:
+- User chooses rock, paper, or scissors
+- Computer generates a random choice
+- Game result displayed (Win / Lose / Tie)
+- Score tracking for user and computer
+- Option to play multiple rounds
+- Simple and user-friendly interface
+
 
 
