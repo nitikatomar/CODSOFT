@@ -72,4 +72,20 @@ The game is played between the **user and the computer** in the command line.
 - Simple and user-friendly interface
 
 
+## 🔹 Task 5: Contact Book Application
+
+- Python-based contact management system
+- Add, view, search, update, and delete contacts
+- Data stored using JSON file
+- Menu-driven console application
+- Uses file handling for permanent storage
+
+Tech Used:
+- Python
+- JSON
+- OS module
+
+Files:
+- Contact_Book.py
+- contact_data.json
 
